@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorButtonA">#388E3C</color>
+    <color name="colorBackgroundA">#66BB6A</color>
+    <color name="colorButtonB">#0288D1</color>
+    <color name="colorBackgroundB">#29B6F6</color>
+    <color name="colorRedCard">#F44336</color>
+    <color name="colorYellowCard">#FFEB3B</color>
+    <color name="colorReset">#607D8B</color>
+</resources>

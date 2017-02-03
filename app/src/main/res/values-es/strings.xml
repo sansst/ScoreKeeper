@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contador</string>
+    <string name="goal"> Gol</string>
+    <string name="corner">Corner</string>
+    <string name="local">Local</string>
+    <string name="visitant">Visitante</string>
+    <string name="fault">Falta</string>
+    <string name="cards">Tarjetas</string>
+    <string name="reset">Reiniciar</string>
+</resources>

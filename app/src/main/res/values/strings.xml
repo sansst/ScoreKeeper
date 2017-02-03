@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="goal"> Goal</string>
+    <string name="corner">Corner</string>
+    <string name="local">Local</string>
+    <string name="visitant">Visitant</string>
+    <string name="fault">Fouls</string>
+    <string name="cards">Cards</string>
+    <string name="reset">Reset</string>
+</resources>
